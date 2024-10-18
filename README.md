@@ -1,7 +1,7 @@
 # Fitness_Tracker_App
 
 ## Overview
-Habit Tracker is a web application designed to help users log their workouts, track their progress, set Habit goals, and view detailed statistics. Admins can manage user accounts, create fitness programs, and analyze user activity. The application features user authentication and data visualization, providing a user-friendly experience for fitness enthusiasts.
+Habit Tracker is a web application designed to help users log their workouts, track their progress, set Habit goals, and view detailed statistics. Admins can manage user accounts, create Habit programs, and analyze user activity. The application features user authentication and data visualization, providing a user-friendly experience for Habit enthusiasts.
 
 
 
